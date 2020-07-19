@@ -1,11 +1,11 @@
-package leetcode_724;
+package 剑指offer_22;
 
 /**
  * @author :lujianbin
  * @create :2020-07-17 21:12:00
  * @description :
  */
-public class test_724 {
+public class test_剑指offer_22 {
 	public static void main(String[] args) {
 		ListNode ln1 = new ListNode();
 		ListNode ln2 = new ListNode();
@@ -23,7 +23,7 @@ public class test_724 {
 		ln4.data = 4;
 		ln5.data = 5;
 
-		main_724 leetcode_724 = new main_724();
+		main_剑指offer_22 leetcode_724 = new main_剑指offer_22();
 		ListNode kthFromEnd = leetcode_724.getKthFromEnd(ln1, 2);
 		System.out.println(kthFromEnd.data);
 	}
