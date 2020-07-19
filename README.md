@@ -29,7 +29,13 @@
 > 建议先刷简单难度，结合自己学习数据结构时候的笔记。
 > 图一定要画！！！，代码一定要自己敲！！！
 
-## 3.已刷
-> 每一个题都写了test完整代码，可以自己测试
-- - [剑指offer22.链表中第k个节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_724)
+## 3.题目进行中
+> main：算法核心区
+> test:测试运行区
+> 数据结构区
+
+### 3.1 链表（简单分类）
+- 快慢指针解决链表问题：
+- - [剑指offer22.链表中第k个节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87offer_22)
+- - [0876.链表的中间节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_876)
 
