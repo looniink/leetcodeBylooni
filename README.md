@@ -31,5 +31,5 @@
 
 ## 3.已刷
 > 每一个题都写了test完整代码，可以自己测试
-- - [0724.链表中第k个节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_724)
+- - [剑指offer22.链表中第k个节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_724)
 
