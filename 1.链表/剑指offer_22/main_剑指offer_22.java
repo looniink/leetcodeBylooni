@@ -13,22 +13,22 @@ public class main_剑指offer_22 {
 			return null;
 		}
 		//将两个指针初始位置都指向头结点
-		ListNode right = head;
-		ListNode left = head;
+		ListNode fast = head;
+		ListNode slow = head;
 
-		//将right节点向右移k位
+		//将fast节点向右移k位
 		for (int i = 0; i < k - 1; i++) {
-			if (right.next != null) {
-				right = right.next;
+			if (fast.next != null) {
+				fast = fast.next;
 			} else {
 				return null;    //链表过短，不够k个节点
 			}
 		}
 		//当右指针移动k个位置后，再同时移动两个指针，当右指针为空时左指针刚好在第倒数k位置上
-		while (right.next != null) {
-			left = left.next;
-			right = right.next;
+		while (fast.next != null) {
+			slow = slow.next;
+			fast = fast.next;
 		}
-		return left;
+		return slow;
 	}
 }
