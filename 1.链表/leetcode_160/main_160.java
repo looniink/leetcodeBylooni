@@ -16,8 +16,8 @@ public class main_160 {
 		ListNode nodeA = headA;     //nodeA指向A链表的头部
 		ListNode nodeB = headB;     //nodeB指向B链表的头部
 		while (nodeA != nodeB) {    //如果没有指向同一节点，则进入循环
-			nodeA = nodeA == null ? headB : nodeA.next;
-			nodeB = nodeB == null ? headA : nodeB.next;
+			nodeA = nodeA == null ? headB : nodeA.next;     //如果nodeA是null值则将其指向nodeB否则指向下一个节点
+			nodeB = nodeB == null ? headA : nodeB.next;     //如果nodeB是null值则将其指向nodeA否则指向下一个节点
 		}
 		return nodeA;
 	}
