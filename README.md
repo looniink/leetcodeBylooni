@@ -42,4 +42,4 @@
 - - [0141.环形链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_141)
 - - [0160.相交链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_160)
 - 递归/迭代解决链表问题：
-- - [0206.反转链表]（https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_206）
+- - [0206.反转链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_206)
