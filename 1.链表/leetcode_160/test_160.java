@@ -20,7 +20,6 @@ public class test_160 {
 		ln3.next = ln4;
 		ln4.next = ln5;
 		ln5.next = ln6;
-		ln6.next = ln1;
 		ln9.next = ln5;
 		ln1.data = 1;
 		ln2.data = 2;
