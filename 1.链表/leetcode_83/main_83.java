@@ -24,20 +24,12 @@ public class main_83 {
 		if (head == null || head.next == null) {
 			return head;
 		}
+		//如果当前节点不重复则比较下一个节点是否重复
+		head.next = deleteDuplicates(head.next);
+		//如果值相等则跳过当前节点返回下一个节点(有序链表)
 		if (head.val == head.next.val) {
-			ListNode node = head.next;//当前开始重复的节点用head标记
-			while (node != null && node.val == head.val) {
-				node = node.next;
-			}
-			//一直寻找与第一个重复的节点，如果有重复的就递归一直跳过(已经排好序的链表)
-			//循环出来以后node指向下一个不重复的点，下一步从这个节点开始继续查找重复的节点
-			return deleteDuplicates(node);
-		} else {
-			//如果这个节点和下一个节点不重复，则继续从下一个节点开始找重复的
-			head.next = deleteDuplicates(head.next);
-			return head;
+			return head.next;
 		}
+		return head;
 	}
-
-
 }
