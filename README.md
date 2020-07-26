@@ -44,8 +44,9 @@
 - 递归/迭代解决链表问题：
 - - [0206.反转链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_206)
 - - [0021.合并两个有序链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_21)
+- - [0083.删除排序链表中的重复元素](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_83)
 - 虚拟指针解决链表问题（哨兵）:
-- - [0203.移除链表中的重复元素](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_203)
+- - [0203.移除链表元素](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_203)
 
 
 
