@@ -30,9 +30,9 @@
 > 图一定要画！！！，代码一定要自己敲！！！
 
 ## 3.题目进行中（:airplane:）
-> main：算法核心区
-> test:测试运行区
-> 数据结构区
+> main：算法核心代码
+> test:测试运行代码
+> 数据结构代码
 > 每写完一个简单专题会写一个小总结噢:grin:
 
 ### 3.1 链表（简单分类）
@@ -44,3 +44,10 @@
 - 递归/迭代解决链表问题：
 - - [0206.反转链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_206)
 - - [0021.合并两个有序链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_21)
+- 虚拟指针解决链表问题（哨兵）:
+- - [0203.移除链表中的重复元素](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_203)
+
+
+
+
+
