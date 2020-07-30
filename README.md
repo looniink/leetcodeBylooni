@@ -26,14 +26,14 @@
 - 二分查找
 - 排序
 
-> 建议先刷简单难度，结合自己学习数据结构时候的笔记。
+> 建议先刷简单难度，我是结合自己数据结构笔记来刷的
 > 图一定要画！！！，代码一定要自己敲！！！
 
 ## 3.题目进行中（:airplane:）
-> main：算法核心代码
-> test:测试运行代码
-> 数据结构代码
-> 每写完一个简单专题会写一个小总结噢:grin:
+- 数据结构代码
+- main：算法核心代码
+- test:测试运行代码
+- 每写完一个简单专题会写一个小总结噢:grin:
 
 ### 3.1 链表（简单分类）
 - 快慢指针解决链表问题：
@@ -47,6 +47,7 @@
 - - [0083.删除排序链表中的重复元素](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_83)
 - 虚拟指针解决链表问题（哨兵）:
 - - [0203.移除链表元素](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_203)
+- - [0237.删除链表中的节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcod_237)
 
 
 
