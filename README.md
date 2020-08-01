@@ -50,8 +50,7 @@
 - - [0237.删除链表中的节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcod_237)
 - Java集合解决链表问题
 - - [面试题02.01.移除重复节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E9%9D%A2%E8%AF%95_0201)
-
-
+- - [剑指offer06.从尾到头打印链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87offer_06)
 
 
 
