@@ -36,7 +36,7 @@
 - 每写完一个简单专题会写一个小总结噢:grin:
 
 ### 3.1 链表（简单分类）
-<img align="right" alt="jpg" src="http://static.looni.ink/github/listnode.jpg" />
+
 - 快慢指针解决链表问题：
 - - [剑指offer22.链表中第k个节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87offer_22)
 - - [0876.链表的中间节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_876)
@@ -55,4 +55,6 @@
 - - [0234.回文链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_234)
 
 > 由于自己还很cai，有些题可能不是最优解，只是选了一种自己好理解的解法
+<img align="right" alt="jpg" src="http://static.looni.ink/github/listnode.jpg" />
+
 
