@@ -55,6 +55,5 @@
 - - [0234.回文链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_234)
 
 > 由于自己还很cai，有些题可能不是最优解，只是选了一种自己好理解的解法
-<img align="right" alt="jpg" src="http://static.looni.ink/github/listnode.jpg" />
 
 
