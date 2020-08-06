@@ -17,12 +17,11 @@
 - 链表
 - 队列
 - 栈
-- 数组
-- 字符串
-- 哈希表
 - 树
 - 二叉搜索树
 - 图
+- 深度优先搜索
+- 广度优先搜索
 - 二分查找
 - 排序
 
@@ -36,6 +35,7 @@
 - 每写完一个简单专题会写一个小总结噢:grin:
 
 ### 3.1 链表（简单分类）
+
 - 快慢指针解决链表问题：
 - - [剑指offer22.链表中第k个节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87offer_22)
 - - [0876.链表的中间节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_876)
@@ -51,6 +51,10 @@
 - Java集合解决链表问题
 - - [面试题02.01.移除重复节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E9%9D%A2%E8%AF%95_0201)
 - - [剑指offer06.从尾到头打印链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87offer_06)
+- - [0234.回文链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_234)
 
+> 由于自己还很cai，有些题可能不是最优解，只是选了一种自己好理解的解法
+
+### 3.2 队列（简单分类） 
 
 
