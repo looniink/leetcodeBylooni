@@ -51,10 +51,10 @@
 - Java集合解决链表问题
 - - [面试题02.01.移除重复节点](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E9%9D%A2%E8%AF%95_0201)
 - - [剑指offer06.从尾到头打印链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/%E5%89%91%E6%8C%87offer_06)
-- - [0234.回文链表](https://github.com/looniink/leetcodeBylooni/tree/master/1.%E9%93%BE%E8%A1%A8/leetcode_234)
+
 
 > 由于自己还很cai，有些题可能不是最优解，只是选了一种自己好理解的解法
 
-### 3.2 队列（简单分类） 
+### 3.2 队列（简单分类）
 
-
+- - [0933.最近的请求次数](https://github.com/looniink/leetcodeBylooni/tree/master/2.%E9%98%9F%E5%88%97/leetcode_933)
