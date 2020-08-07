@@ -13,9 +13,9 @@ import java.util.Queue;
 public class main_剑指offer_59 {          //大小为k的滑动窗口
 	public int[] maxSlidingWindow(int[] nums, int k) {
 
-		if (nums == null || nums.length < 1 || k <= 0 || k > nums.length) {
+		if (nums.length == 0 || k == 0)
 			return new int[0];
-		}
+
 
 		int[] res = new int[nums.length - k + 1];
 		//deque双端队列
