@@ -1,9 +1,7 @@
 package ½£Ö¸offer_59;
 
-import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * @author :lujianbin
