@@ -58,3 +58,4 @@
 ### 3.2 队列（简单分类）
 
 - - [0933.最近的请求次数](https://github.com/looniink/leetcodeBylooni/tree/master/2.%E9%98%9F%E5%88%97/leetcode_933)
+- - [剑指offer59.滑动窗口的最大值](https://github.com/looniink/leetcodeBylooni/tree/master/2.%E9%98%9F%E5%88%97/leetcode_933)
