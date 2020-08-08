@@ -61,5 +61,5 @@
 - - [剑指offer59.滑动窗口的最大值](https://github.com/looniink/leetcodeBylooni/tree/master/2.%E9%98%9F%E5%88%97/leetcode_933)
 
 ### 3.3 栈（简单分类）
-- - [0020.有效的括号]()
+- - [0020.有效的括号](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_20)
 
