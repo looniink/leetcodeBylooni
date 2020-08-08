@@ -15,8 +15,8 @@
 
 ### 2.1 数据结构（:page_facing_up:）
 - 链表
-- 队列
-- 栈
+- 队列（先进先出）
+- 栈（先进后出）
 - 树
 - 二叉搜索树
 - 图
@@ -59,3 +59,7 @@
 
 - - [0933.最近的请求次数](https://github.com/looniink/leetcodeBylooni/tree/master/2.%E9%98%9F%E5%88%97/leetcode_933)
 - - [剑指offer59.滑动窗口的最大值](https://github.com/looniink/leetcodeBylooni/tree/master/2.%E9%98%9F%E5%88%97/leetcode_933)
+
+### 3.3 栈（简单分类）
+- - [0020.有效的括号]()
+
