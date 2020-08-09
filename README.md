@@ -15,8 +15,8 @@
 
 ### 2.1 数据结构（:page_facing_up:）
 - 链表
-- 队列（先进先出）
-- 栈（先进后出）
+- 队列（FIFO）
+- 栈（LIFO）
 - 树
 - 二叉搜索树
 - 图
@@ -62,4 +62,6 @@
 
 ### 3.3 栈（简单分类）
 - - [0020.有效的括号](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_20)
+- - [0225.用队列表示栈](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_20)
+- - [0232.用栈表示队列](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_20)
 
