@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
 
-:tada: A rookie's way to solve problems.记录一只菜鸟刷leetcode的艰辛历程
+:see_no_evil: A rookie's way to solve problems.记录一只菜鸟刷leetcode的艰辛历程
 
 ## 1.关于我（:fire:）
 - 武汉不知名双非一本计算机科学与技术大二学生
@@ -28,10 +28,9 @@
 > 图一定要画！！！，代码一定要自己敲！！！
 
 ## 3.题目进行中（:airplane:）
-- 数据结构代码
 - main：算法核心代码
-- test:测试运行代码
-- 每写完一个简单专题会写一个小总结噢:grin:
+- test：测试运行代码
+- 一个level会写个总结噢:grin:
 
 ### 3.1 链表（简单分类）
 
