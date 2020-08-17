@@ -67,4 +67,5 @@
 - - [剑指offer09.用两个栈实现队列](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/%E5%89%91%E6%8C%87offer_09)
 - - [0682.棒球比赛](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_682)
 - - [0844.比较含退格的字符串](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_844)
-
+- - [1047.删除字符串中的相邻项](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1047)
+- - [1021.删除最外层的括号](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1021)
