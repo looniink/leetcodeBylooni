@@ -2,6 +2,7 @@ package leetcode_155;
 
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Stack;
 
 /**
  * @author :lujianbin
@@ -9,39 +10,37 @@ import java.util.LinkedList;
  * @description :最小栈
  */
 class MinStack {
-
-	Deque<Integer> list;
-	int min = Integer.MAX_VALUE;
+	private Deque<Integer> stack;
+	private int min;
 
 	/**
 	 * initialize your data structure here.
 	 */
 	public MinStack() {
-		list = new LinkedList<>();
+		stack = new LinkedList<>();
+		min = Integer.MAX_VALUE;
 	}
 
 	public void push(int x) {
-		if (x <= min) {
-			//将之前的值保存
-			list.push(min);
-			//更新最小值
+		if (x <= min) {//注意：这里要使用<=号
+			stack.push(min);//在每一个min入栈之前将它前一个min入栈
 			min = x;
 		}
-		list.push(x);
+		stack.push(x);
 	}
 
 	public void pop() {
-		//如果弹出的是最小值,那么将下一个元素更新为最小值
-		if (list.pop() == min) {
-			min = list.pop();
+		//如果弹出的是最小值,那么就再将下一个元素弹出  更新它为当前的最小值
+		if (stack.pop() == min) {
+			min = stack.pop();
 		}
 	}
 
 	public int top() {
-		return list.getFirst();
+		return stack.getFirst();
 	}
 
-	public int getMin() {
+	public int min() {
 		return min;
 	}
 }
