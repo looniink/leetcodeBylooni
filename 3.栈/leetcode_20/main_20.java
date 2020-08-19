@@ -36,7 +36,7 @@ public class main_20 {
 				stack.add(c);
 			} else {        //右括号
 				//如果第一个就是右括号或者都是括号  9直接返回flase
-				if (stack.size() == 0) {
+				if (stack.isEmpty()) {
 					return false;
 				}
 				//取出栈顶元素   栈里面全是左括号
