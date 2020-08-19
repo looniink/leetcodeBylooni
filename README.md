@@ -70,3 +70,4 @@
 - - [1047.删除字符串中的相邻项](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1047)
 - - [1021.删除最外层的括号](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1021)
 - - [1441.用栈操作构建数组](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1441)
+- - [1544.整理字符串](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1544)
