@@ -72,4 +72,4 @@
 - - [1441.用栈操作构建数组](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1441)
 - - [1544.整理字符串](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1544)
 ### 3.4 树（简单分类）
-- - [0589.树的前序遍历](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1544)
+- - [0589.树的前序遍历](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_589)
