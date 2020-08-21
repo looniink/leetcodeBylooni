@@ -1,4 +1,4 @@
-package 剑指offer_55_I;
+package leetcode_104;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -9,7 +9,7 @@ import java.util.Queue;
  * @description :二叉树的深度
  * @way : 树的后序遍历(类似于深度优先搜索)
  */
-public class main_剑指offer_55_I {
+public class leetcode_104 {
 	//关键点:该树的深度等于左子树深度与右子树深度中的最大值+1
 	public int maxDepth2(TreeNode root) {
 		if (root == null)
