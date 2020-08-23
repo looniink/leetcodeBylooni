@@ -74,4 +74,4 @@
 ### 3.4 树（简单分类）
 - - [0589.树的前序遍历](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_589)
 - - [0104.二叉树的深度遍历](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_104)
-
+- - [剑指offer054.二叉搜索树的第k大节点](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/剑指offer_54)
