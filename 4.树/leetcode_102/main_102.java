@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author :lujianbin
  * @create :2020-08-23 09:22:00
- * @description :二叉树的层序遍历
+ * @description :二叉树的层序遍历(从上到下)
  */
 public class main_102 {
 	public List<List<Integer>> levelOrder(TreeNode root) {
