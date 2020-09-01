@@ -35,7 +35,7 @@ public class main_20 {
 			if (!map.containsKey(c)) {   //判断k值是否存在，如果是左括号则放入栈中
 				stack.add(c);
 			} else {        //右括号
-				//如果第一个就是右括号或者都是右括号就直接返回flase
+				//如果输入的都是右括号就直接返回flase
 				if (stack.isEmpty()) {
 					return false;
 				}
