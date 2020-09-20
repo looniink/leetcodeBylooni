@@ -5,7 +5,7 @@
 :see_no_evil: A rookie's way to solve problems.记录一只菜鸟刷leetcode的艰辛历程
 
 ## 1.关于我（:fire:）
-- 武汉不知名双非一本计算机科学与技术大三学生
+- 武汉不知名计算机科学与技术大三学生
 - 主要学习方向java，仅以此项目记录自己的刷题之路
 - 这是我的个人博客，欢迎大家来逛逛：https://looni.ink
 
@@ -81,3 +81,6 @@
 - - [0102.N叉树的深度](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_559)
 - - [剑指offer054.二叉搜索树的第k大节点](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/剑指offer_54)
 - - [0226.二叉树的翻转](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_226)
+- - [面试金典0402.最小高度树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8_0402)
+
+
