@@ -65,6 +65,6 @@ public class Main {
 		}
 
 		//Ê£ÓàµÄ·ûºÅÊı
-		System.out.print(n - ((k * k) * 2 - 1));
+		 System.out.print(n - ((k * k) * 2 - 1));
 	}
 }
