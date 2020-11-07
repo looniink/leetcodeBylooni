@@ -26,7 +26,9 @@ public class leetcode_105 {
 		}
 
 		TreeNode root = new TreeNode(preorder[pre++]);
+		//必须先执行左节点的操作，因为前序遍历从左到右获取节点
 		root.left = bulid(preorder, inorder, root.val);
+		//接着再执行右节点的操作
 		root.right = bulid(preorder, inorder, stop);
 		return root;
 
