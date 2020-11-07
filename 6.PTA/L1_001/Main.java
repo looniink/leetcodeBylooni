@@ -4,7 +4,7 @@ package L1_001;
  * @author :lujianbin
  * @create :2020-11-01 16:55:00
  * @description :Hello World!
- * @solution :
+ * @solution :╪ссм
  */
 public class Main {
 	public static void main(String[] args) {
