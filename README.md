@@ -73,7 +73,8 @@
 - - [1021.删除最外层的括号](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1021)
 - - [1441.用栈操作构建数组](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1441)
 - - [1544.整理字符串](https://github.com/looniink/leetcodeBylooni/tree/master/3.%E6%A0%88/leetcode_1544)
-### 3.4 树（简单分类）
+### 3.4 树
+#### 简单分类
 - - [0589.树的前序遍历](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_589)
 - - [0102.二叉树的层序遍历（从上到下）](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_102)
 - - [0107.二叉树的层序遍历（从下到上）](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_107)
@@ -83,8 +84,12 @@
 - - [0226.二叉树的翻转](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_226)
 - - [面试金典0402.最小高度树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8_0402)
 - - [0108.有序数组转化为二叉搜索树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_108)
-- - [0109.有序链表转化为二叉搜索树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_109)（中等题）
 - - [0100.相同的树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_100)
 - - [0700.二叉搜索树中的搜索](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_700)
 - - [0101.对称二叉树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_101)
 - - [0110.平衡二叉树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_110)
+#### 中等分类
+- - [0109.有序链表转化为二叉搜索树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_109)
+- - [0105.根据前序和中序遍历还原二叉树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_105)
+### 困难分类
+- - [0124.二叉树的最大路径和](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_124)
