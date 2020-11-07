@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author :lujianbin
  * @create :2020-11-01 17:05:00
- * @description :将给定的符号修改成沙漏形状
+ * @description :打印沙漏形状
  * @solution :
  */
 public class Main {
@@ -65,6 +65,6 @@ public class Main {
 		}
 
 		//剩余的符号数
-		 System.out.print(n - ((k * k) * 2 - 1));
+		System.out.print(n - ((k * k) * 2 - 1));
 	}
 }
