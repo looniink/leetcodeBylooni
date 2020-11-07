@@ -6,7 +6,7 @@ import java.lang.String;
 /**
  * @author :lujianbin
  * @create :2020-11-04 21:56:00
- * @description :两个数组就很巧妙
+ * @description :统计个位数的个数
  * @solution :
  */
 public class L1_003 {
