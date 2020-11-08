@@ -28,14 +28,30 @@ public class Collection {
 
 		System.out.println();
 
+
+		//linkedList
 		Iterator<Integer> iterator1 = linkedHashSet.iterator();
+		//LinkedList 特有的方法：CRUD首尾元素
+		System.out.println(linkedList.getLast());
 
 		while (iterator1.hasNext()) {
 			System.out.print(iterator1.next() + "-");
 		}
 
-		//LinkedList 特有的方法：CRUD首尾元素
-		System.out.println(linkedList.getLast());
+		System.out.println();
+
+		//iter快捷键的使用 && foreach循环
+		for (Integer integer : linkedHashSet) {
+			System.out.print(integer + "*");
+		}
+
+		System.out.println();
+
+		String[] arr = {"ling", "yi", "er", "san", "si", "wu", "liu", "qi", "ba", "jiu"};
+		for (String s : arr) {
+			System.out.print(s);
+		}
+
 
 	}
 }
