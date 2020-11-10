@@ -13,6 +13,7 @@ public class integerTest {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		String s = scanner.nextLine();
+		//×Ö·û´®×ªÕûÊý
 		System.out.println(Integer.parseInt(s));
 		BigDecimal a = new BigDecimal(9);
 		BigDecimal b = new BigDecimal(900000000);
