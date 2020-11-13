@@ -3,7 +3,7 @@ package L1_014;
 /**
  * @author :lujianbin
  * @create :2020-11-13 18:03:00
- * @description :
+ * @description :simple problem
  * @solution :
  */
 public class Main {
