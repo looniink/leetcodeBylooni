@@ -13,7 +13,6 @@ import java.io.InputStreamReader;
 public class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-
 		//总共的密码数量
 		int n = Integer.parseInt(bf.readLine());
 		for (int i = 0; i < n; i++) {
@@ -39,6 +38,7 @@ public class Main {
 						letter = true;
 					}
 				}
+
 				if (!law) {
 					System.out.println("Your password is tai luan le.");
 				} else if (!letter) {
