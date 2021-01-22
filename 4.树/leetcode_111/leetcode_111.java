@@ -7,4 +7,7 @@ package leetcode_111;
  * @solution :
  */
 public class leetcode_111 {
+	public static void main(String[] args) {
+
+	}
 }
