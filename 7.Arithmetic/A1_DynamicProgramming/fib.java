@@ -55,6 +55,7 @@ public class fib {
 		return memo[N];
 	}
 
+
 	//递推数组的迭代解法     递推表dp(自底向上)
 	public static int fib2(int N) {
 		int[] dp = new int[N + 1];
