@@ -90,7 +90,8 @@
 - - [0110.平衡二叉树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_110)
 - - [0111.二叉树的最小深度](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_111)
 - - [0112.二叉树的路径总和](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_112)
-- - [剑指offer068.二叉搜索树的第k大节点](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/%E5%89%91%E6%8C%87offer_68)
+- - [剑指offer068.二叉树的最近公共祖先](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/%E5%89%91%E6%8C%87offer_68)
+- - [0235.二叉搜索树的最近公共祖先](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_235)
 #### 中等分类
 - - [0109.有序链表转化为二叉搜索树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_109)
 - - [0105.根据前序和中序遍历还原二叉树](https://github.com/looniink/leetcodeBylooni/tree/master/4.%E6%A0%91/leetcode_105)
