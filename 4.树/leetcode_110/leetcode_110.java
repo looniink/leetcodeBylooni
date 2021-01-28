@@ -30,6 +30,7 @@ public class leetcode_110 {
 			flag = false;
 		}
 
+		//该树的深度应该是左右子树中深度最大的那个
 		return Math.max(left, right);
 	}
 
